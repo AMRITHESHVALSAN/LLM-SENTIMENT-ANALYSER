@@ -1,4 +1,4 @@
-# LLM-SENTIMENT-ANALYSER USING GOOGLE GRMINI
+# LLM-SENTIMENT-ANALYSER USING GOOGLE GEMINI
 
 This is an end to end LLM project based on Google Gemini and Streamlit. We are building a system that can analyse the LLM response. User asks questions in a natural language and the LLM replies.
 These replies will be analysed and the sentiment of these response will be displayed.
@@ -17,5 +17,5 @@ The sentiment is then classified into categories
 ## Project Structure
   * Frontend.py: The main Streamlit application script.
   * Backend_LLM.py: This has all the sentiment analyser and LLM coding
-  * .env: Configuration file for storing your Google API key. '''
+  * .env: Configuration file for storing your Google API key. 
  
