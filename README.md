@@ -19,5 +19,5 @@ At the end of each session the sentiment analyser report is given for each sessi
   * Frontend.py: The main Streamlit application script.
   * Backend_LLM.py: This has all the sentiment analyser and LLM coding
   * .env: Configuration file for storing your Google API key.
-  * Screenshots of the GUI also given
+  * Screenshots of the GUI also given(a, b, c)
  
